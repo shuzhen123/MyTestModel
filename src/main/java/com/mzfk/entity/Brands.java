@@ -27,6 +27,6 @@ public class Brands {
 
     private Timestamp createdAt;
 
-    private Timestamp updatedAt;
+    private Timestamp updatedAt;//
 
 }
