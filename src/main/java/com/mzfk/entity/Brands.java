@@ -19,7 +19,8 @@ public class Brands {
 
     private String wallet;
 
-    private String jackpotUrl;
+    private String jackpotUrl
+            ;
 
     private String status;
 
@@ -27,6 +28,6 @@ public class Brands {
 
     private Timestamp createdAt;
 
-    private Timestamp updatedAt;//
+    private Timestamp updatedAt;//asd
 
 }
