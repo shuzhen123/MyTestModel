@@ -19,7 +19,8 @@ public class Brands {
 
     private String wallet;
 
-    private String jackpotUrl;
+    private String jackpotUrl
+            ;
 
     private String status;
 
