@@ -28,6 +28,6 @@ public class Brands {
 
     private Timestamp createdAt;
 
-    private Timestamp updatedAt;//asd
+    private Timestamp updatedAt;//asd//1213
 
 }

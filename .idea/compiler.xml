@@ -15,7 +15,7 @@
   </component>
   <component name="JavacSettings">
     <option name="ADDITIONAL_OPTIONS_OVERRIDE">
-      <module name="mybatistest" options="-parameters" />
+      <module name="mybatistest" options="" />
     </option>
   </component>
 </project>
